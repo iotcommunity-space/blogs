@@ -5,7 +5,7 @@
       "title": "One of the year's best movies was filmed in first person",
       "excerpt": "Nickel Boys director RaMell Ross shares his point of view with the world.",
       "content": "<p>Nickel Boys director RaMell Ross dives deep into his artistic process, showcasing the emotional depth of storytelling through first-person cinematography. Explore how this groundbreaking movie sets a new standard for immersive filmmaking.</p>",
-      "image": "/assets/images/IoT-devices.jpg",
+      "image": "https://raw.githubusercontent.com/iotcommunity-space/blogs/refs/heads/main/assets/images/IoT-devices.jpg",
       "author": "Kevin Nguyen",
       "date": "2024-12-14"
     },
@@ -14,7 +14,7 @@
       "title": "Apple MacBook Pro (M4 Pro and Max) is still on top",
       "excerpt": "Discover why the latest MacBook Pro models are setting new standards.",
       "content": "<p>Apple's M4 Pro and Max chipsets redefine power and efficiency, making the MacBook Pro the ultimate choice for creators and professionals. Read on to uncover why this device remains unmatched in the market.</p>",
-      "image": "/assets/images/IOT-04.jpg",
+      "image": "https://raw.githubusercontent.com/iotcommunity-space/blogs/refs/heads/main/assets/images/IOT-04.jpg",
       "author": "Antonio Di Benedetto",
       "date": "2024-12-13"
     },
@@ -23,7 +23,7 @@
       "title": "IoT Security: Protecting the Future of Connected Devices",
       "excerpt": "A comprehensive guide to securing IoT networks and devices against emerging threats.",
       "content": "<p>The rise of IoT has brought convenience but also security challenges. This blog delves into best practices, tools, and strategies to protect connected devices and ensure network integrity.</p>",
-      "image": "/assets/images/IoT-Security.jpg",
+      "image": "https://raw.githubusercontent.com/iotcommunity-space/blogs/refs/heads/main/assets/images/IoT-Security.jpg",
       "author": "Sarah Jenkins",
       "date": "2024-12-12"
     },
@@ -32,7 +32,7 @@
       "title": "Top Trends in IoT Devices for year 2024 and Predictions",
       "excerpt": "From smart homes to industrial IoT, explore the innovations shaping the future.",
       "content": "<p>2024 is the year of innovation for IoT devices. From AI integration to improved battery life, discover the key trends redefining the connected world.</p>",
-      "image": "/assets/images/IoT-devices.jpg",
+      "image": "https://raw.githubusercontent.com/iotcommunity-space/blogs/refs/heads/main/assets/images/IoT-devices.jpg",
       "author": "Michael Brown",
       "date": "2024-12-11"
     },
@@ -41,7 +41,7 @@
       "title": "The Future of IoT: Insights and Predictions for 2025",
       "excerpt": "What does the future hold for IoT technology? Discover predictions and industry insights.",
       "content": "<p>IoT is set to transform industries from healthcare to logistics. Read about the next wave of innovations and how they will impact businesses globally.</p>",
-      "image": "/assets/images/Future.jpg",
+      "image": "https://raw.githubusercontent.com/iotcommunity-space/blogs/refs/heads/main/assets/images/Future.jpg",
       "author": "Emily Carter",
       "date": "2024-12-10"
     },
@@ -50,7 +50,7 @@
       "title": "Industrial IoT: Driving Efficiency and Growth",
       "excerpt": "Learn how industrial IoT is revolutionizing production and operations worldwide.",
       "content": "<p>With smart sensors and real-time analytics, industrial IoT is optimizing efficiency and cutting costs. Explore the technologies driving this revolution.</p>",
-      "image": "/assets/images/IOT-02.jpg",
+      "image": "https://raw.githubusercontent.com/iotcommunity-space/blogs/refs/heads/main/assets/images/IOT-02.jpg",
       "author": "John Doe",
       "date": "2024-12-09"
     },
@@ -59,7 +59,7 @@
       "title": "IoT in Healthcare: Saving Lives with Technology",
       "excerpt": "IoT technology is transforming healthcare with connected devices and real-time monitoring.",
       "content": "<p>From wearable devices to AI-driven diagnostics, IoT is making healthcare more accessible and efficient. Learn how it's saving lives and shaping the future.</p>",
-      "image": "/assets/images/IOT-03.jpg",
+      "image": "https://raw.githubusercontent.com/iotcommunity-space/blogs/refs/heads/main/assets/images/IOT-03.jpg",
       "author": "Dr. Lisa Evans",
       "date": "2024-12-08"
     }
